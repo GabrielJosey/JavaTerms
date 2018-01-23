@@ -1,4 +1,4 @@
-### UNDER CONSTRUCTION 
+
 # Java Terms
 
 ## Primitive Data Types 
