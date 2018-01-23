@@ -1,8 +1,8 @@
 
 
-# Welcome to the HOME Resources for Interapt / SKILLS
+### Welcome to the HOME Resources for Interapt / SKILLS
 
-### Android
+#### Android
 
-#### Resource to the wiki
+#### Resource links to the wiki
 [Java Resources](https://github.com/TinaBryan/JavaTerms/wiki/javaTerms)
