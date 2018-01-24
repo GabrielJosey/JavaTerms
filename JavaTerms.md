@@ -36,7 +36,7 @@ _Logic Operators_
 | ==                     | equal to                     | ...        | [java math docs](http://tutorials.jenkov.com/java/math-operators-and-math-class.html#remainder-modulo)|
 | !                      | NOT                    | ...        | [java math docs](http://tutorials.jenkov.com/java/math-operators-and-math-class.html#remainder-modulo)|
 | &&                     | AND                    | ...        | [java math docs](http://tutorials.jenkov.com/java/math-operators-and-math-class.html#remainder-modulo)|
-| ||                      | OR                    | ...        | [java math docs](http://tutorials.jenkov.com/java/math-operators-and-math-class.html#remainder-modulo)|
+| '||''                     | OR                    | ...        | [java math docs](http://tutorials.jenkov.com/java/math-operators-and-math-class.html#remainder-modulo)|
 
 
 
