@@ -13,8 +13,6 @@
 | float                        |    | ...      | [java docs](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)   |
 | double                        |    | ...      | [java docs](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)   |
 | boolean                     | true or false       | false      | [java docs](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html) |
-
-
 | char                        | Unicode character   | null       | [Unicode](https://www.fileformat.info/info/unicode/char/0000/index.htm)   |
 
 
