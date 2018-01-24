@@ -21,5 +21,5 @@ _Math Operators_
 
 | Data Types                  | Description         | Default    | Resource   |
 | ---------------------       |:-------------------:| ----------:| ---------: |
-| modulo                      |                     | ...        | [](http://tutorials.jenkov.com/java/math-operators-and-math-class.html#remainder-modulo)   |
+| modulo                      |                     | ...        | [java math docs](http://tutorials.jenkov.com/java/math-operators-and-math-class.html#remainder-modulo)   |
 
