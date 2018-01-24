@@ -18,6 +18,7 @@ _Primitive Data Types_
 
 ### Operators
 _Math Operators_
+
 | Data Types                  | Description         | Default    | Resource   |
 | ---------------------       |:-------------------:| ----------:| ---------: |
 | modulo                      |                     | ...        | [](http://tutorials.jenkov.com/java/math-operators-and-math-class.html#remainder-modulo)   |
