@@ -1,9 +1,9 @@
 
 
 ## Android Mobile Track
-#### [Oracle Glossary](http://www.oracle.com/technetwork/java/glossary-135216.html)
+_[Oracle Glossary](http://www.oracle.com/technetwork/java/glossary-135216.html)_
 ### Java Terms 
-### Primitive Data Types 
+_Primitive Data Types_
 
 | Data Types                  | Description         | Default    | Resource   |
 | ---------------------       |:-------------------:| ----------:| ---------: |
