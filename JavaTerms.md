@@ -1,6 +1,8 @@
 
 
-## Android Mobile Track
+
+### Welcome to the Resources Home page for Interapt / SKILLS
+## Android
 _[Oracle Glossary](http://www.oracle.com/technetwork/java/glossary-135216.html)_
 ### Java Terms 
 _Primitive Data Types_
