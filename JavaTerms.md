@@ -28,15 +28,15 @@ _Logic Operators_
 
 | Data Types                  | Description         | Default    | Resource   |
 | ---------------------       |:-------------------:| ----------:| ---------: |
-| >                      | greater than                    | ...        | [java math docs](http://tutorials.jenkov.com/java/math-operators-and-math-class.html#remainder-modulo)|
-| <                      | less than                    | ...        | [java math docs](http://tutorials.jenkov.com/java/math-operators-and-math-class.html#remainder-modulo)|
-| >=                      | greater than or equal to    | ...        | [java math docs](http://tutorials.jenkov.com/java/math-operators-and-math-class.html#remainder-modulo)|
-| <=                      | less than or equal to       | ...        | [java math docs](http://tutorials.jenkov.com/java/math-operators-and-math-class.html#remainder-modulo)|
-| !=                      | not equal to                | ...        | [java math docs](http://tutorials.jenkov.com/java/math-operators-and-math-class.html#remainder-modulo)|
-| ==                     | equal to                     | ...        | [java math docs](http://tutorials.jenkov.com/java/math-operators-and-math-class.html#remainder-modulo)|
-| !                      | NOT                    | ...        | [java math docs](http://tutorials.jenkov.com/java/math-operators-and-math-class.html#remainder-modulo)|
-| &&                     | AND                    | ...        | [java math docs](http://tutorials.jenkov.com/java/math-operators-and-math-class.html#remainder-modulo)|
-| '||''                     | OR                    | ...        | [java math docs](http://tutorials.jenkov.com/java/math-operators-and-math-class.html#remainder-modulo)|
+| > | greater than | ... | [java math docs](http://tutorials.jenkov.com/java/math-operators-and-math-class.html#remainder-modulo)|
+| < | less than | ... | [java math docs](http://tutorials.jenkov.com/java/math-operators-and-math-class.html#remainder-modulo)|
+| >= | greater than or equal to | ... | [java math docs](http://tutorials.jenkov.com/java/math-operators-and-math-class.html#remainder-modulo)|
+| <= | less than or equal to | ... | [java math docs](http://tutorials.jenkov.com/java/math-operators-and-math-class.html#remainder-modulo)|
+| != | not equal to | ... | [java math docs](http://tutorials.jenkov.com/java/math-operators-and-math-class.html#remainder-modulo)|
+| == | equal to | ... | [java math docs](http://tutorials.jenkov.com/java/math-operators-and-math-class.html#remainder-modulo)|
+| ! | NOT | ... | [java math docs](http://tutorials.jenkov.com/java/math-operators-and-math-class.html#remainder-modulo)|
+| && | AND | ... | [java math docs](http://tutorials.jenkov.com/java/math-operators-and-math-class.html#remainder-modulo)|
+| `||` | OR | ... | [java math docs](http://tutorials.jenkov.com/java/math-operators-and-math-class.html#remainder-modulo)|
 
 
 
