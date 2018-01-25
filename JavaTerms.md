@@ -1,7 +1,7 @@
 
 
 
-### Welcome to the Resources Home page for Interapt / SKILLS
+## Welcome to the Resources Home page for Interapt / SKILLS
 ## Android
 _[Oracle Glossary](http://www.oracle.com/technetwork/java/glossary-135216.html)_
 ### Java Terms 
@@ -16,7 +16,7 @@ _Primitive Data Types_
 | float                        |    | ...      | [java docs](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)   |
 | double                        |    | ...      | [java docs](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)   |
 | boolean                     | true or false       | false      | [java docs](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html) |
-| char                        | Unicode character   | null       | [Unicode](https://www.fileformat.info/info/unicode/char/0000/index.htm)   |
+| char                        | Unicode character   | null       | [Unicode](https://www.fileformat.info/info/unicode/char/0000/index.htm)|
 
 ### Operators
 _Math Operators_
