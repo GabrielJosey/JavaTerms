@@ -30,15 +30,15 @@ _Logic Operators_
 
 | Data Types                  | Description         | Default    | Resource   |
 | ---------------------       |:-------------------:| ----------:| ---------: |
-| > | greater than | ... | [java math docs](http://codingbat.com/doc/java-if-boolean-logic.html)|
-| < | less than | ... | [java math docs](http://codingbat.com/doc/java-if-boolean-logic.html)|
-| >= | greater than or equal to | ... | [java math docs](http://codingbat.com/doc/java-if-boolean-logic.html)|
-| <= | less than or equal to | ... | [java math docs](http://codingbat.com/doc/java-if-boolean-logic.html)|
-| != | not equal to | ... | [java math docs](http://codingbat.com/doc/java-if-boolean-logic.html)|
-| == | equal to | ... | [java math docs](http://codingbat.com/doc/java-if-boolean-logic.html)|
-| ! | NOT | ... | [java math docs](http://codingbat.com/doc/java-if-boolean-logic.html)|
-| && | AND | ... | [java math docs](http://codingbat.com/doc/java-if-boolean-logic.html)|
-| &#124; | OR | ... | [java math docs](http://codingbat.com/doc/java-if-boolean-logic.html)|
+| > | greater than | ... | [Codingbat](http://codingbat.com/doc/java-if-boolean-logic.html)|
+| < | less than | ... | [Codingbat](http://codingbat.com/doc/java-if-boolean-logic.html)|
+| >= | greater than or equal to | ... | [Codingbat](http://codingbat.com/doc/java-if-boolean-logic.html)|
+| <= | less than or equal to | ... | [Codingbat](http://codingbat.com/doc/java-if-boolean-logic.html)|
+| != | not equal to | ... | [Codingbat](http://codingbat.com/doc/java-if-boolean-logic.html)|
+| == | equal to | ... | [jCodingbat](http://codingbat.com/doc/java-if-boolean-logic.html)|
+| ! | NOT | ... | [Codingbat](http://codingbat.com/doc/java-if-boolean-logic.html)|
+| && | AND | ... | [Codingbat](http://codingbat.com/doc/java-if-boolean-logic.html)|
+| &#124; | OR | ... | [Codingbat](http://codingbat.com/doc/java-if-boolean-logic.html)|
 
 
 
