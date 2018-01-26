@@ -30,15 +30,15 @@ _Logic Operators_
 
 | Data Types                  | Description         | Default    | Resource   |
 | ---------------------       |:-------------------:| ----------:| ---------: |
-| > | greater than | ... | [java math docs](http://tutorials.jenkov.com/java/math-operators-and-math-class.html#remainder-modulo)|
-| < | less than | ... | [java math docs](http://tutorials.jenkov.com/java/math-operators-and-math-class.html#remainder-modulo)|
-| >= | greater than or equal to | ... | [java math docs](http://tutorials.jenkov.com/java/math-operators-and-math-class.html#remainder-modulo)|
-| <= | less than or equal to | ... | [java math docs](http://tutorials.jenkov.com/java/math-operators-and-math-class.html#remainder-modulo)|
-| != | not equal to | ... | [java math docs](http://tutorials.jenkov.com/java/math-operators-and-math-class.html#remainder-modulo)|
-| == | equal to | ... | [java math docs](http://tutorials.jenkov.com/java/math-operators-and-math-class.html#remainder-modulo)|
-| ! | NOT | ... | [java math docs](http://tutorials.jenkov.com/java/math-operators-and-math-class.html#remainder-modulo)|
-| && | AND | ... | [java math docs](http://tutorials.jenkov.com/java/math-operators-and-math-class.html#remainder-modulo)|
-| &#124; | OR | ... | [java math docs](http://tutorials.jenkov.com/java/math-operators-and-math-class.html#remainder-modulo)|
+| > | greater than | ... | [java math docs](http://codingbat.com/doc/java-if-boolean-logic.html)|
+| < | less than | ... | [java math docs](http://codingbat.com/doc/java-if-boolean-logic.html)|
+| >= | greater than or equal to | ... | [java math docs](http://codingbat.com/doc/java-if-boolean-logic.html)|
+| <= | less than or equal to | ... | [java math docs](http://codingbat.com/doc/java-if-boolean-logic.html)|
+| != | not equal to | ... | [java math docs](http://codingbat.com/doc/java-if-boolean-logic.html)|
+| == | equal to | ... | [java math docs](http://codingbat.com/doc/java-if-boolean-logic.html)|
+| ! | NOT | ... | [java math docs](http://codingbat.com/doc/java-if-boolean-logic.html)|
+| && | AND | ... | [java math docs](http://codingbat.com/doc/java-if-boolean-logic.html)|
+| &#124; | OR | ... | [java math docs](http://codingbat.com/doc/java-if-boolean-logic.html)|
 
 
 
