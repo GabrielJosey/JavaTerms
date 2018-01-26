@@ -30,7 +30,7 @@ _Logic Operators_
 
 | Data Types                  | Description         | Resource   |
 | ---------------------       |:-------------------:| ---------: |
-| > | greater than | ... | [Codingbat](http://codingbat.com/doc/java-if-boolean-logic.html)|
+| > | greater than | [Codingbat](http://codingbat.com/doc/java-if-boolean-logic.html)|
 | < | less than | [Codingbat](http://codingbat.com/doc/java-if-boolean-logic.html)|
 | >= | greater than or equal to | [Codingbat](http://codingbat.com/doc/java-if-boolean-logic.html)|
 | <= | less than or equal to | [Codingbat](http://codingbat.com/doc/java-if-boolean-logic.html)|
